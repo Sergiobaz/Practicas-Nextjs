@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import styles from "./links.module.css";
-import NavLink from "./navLink/navLink";
+import NavLink from "./navLink/NavLink";
 
 const links = [
   { title: "Homepage", path: "/" },
